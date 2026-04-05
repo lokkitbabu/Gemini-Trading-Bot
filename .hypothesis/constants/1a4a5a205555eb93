@@ -1,0 +1,4 @@
+# file: /Users/lokkitbabu/Trading/prediction_arb/bot/models.py
+# hypothesis_version: 6.141.1
+
+[0.0, 'before_insert', 'before_update', 'expires_at', 'fetched_at', 'gemini_positions', 'match_cache', 'open', 'opportunities', 'orderbook_snapshots', 'pending', 'platform', 'pnl_snapshots', 'ticker']

@@ -1,0 +1,4 @@
+# file: /Users/lokkitbabu/Trading/prediction_arb/bot/risk.py
+# hypothesis_version: 6.141.1
+
+[0.0, 0.05, 0.08, 0.2, 0.7, 0.8, 2.0, 50.0, 1000.0, 'Opportunity', 'alert_send_failed', 'allowed', 'drawdown', 'gemini_order_failed', 'low confidence', 'position cap', 'risk too high', 'risk_decision', 'risk_manager_resumed', 'scan cap exceeded', 'spread too small', 'spread_inside_noise', 'stale_price', 'suspended']

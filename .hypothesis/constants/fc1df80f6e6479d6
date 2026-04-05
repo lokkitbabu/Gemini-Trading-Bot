@@ -1,0 +1,4 @@
+# file: /Users/lokkitbabu/Trading/prediction_arb/bot/executor.py
+# hypothesis_version: 6.141.1
+
+[0.0, 0.15, 0.8, 1.0, 'GeminiClient', 'Opportunity', 'OrderbookCache', 'alert_send_failed', 'buy_yes', 'closed', 'closed_at', 'entry_price', 'error', 'event_id', 'exit_price', 'exit_strategy', 'failed', 'filled', 'hold_to_resolution', 'no', 'open', 'opened_at', 'opportunity_id', 'position_closed', 'position_id', 'position_opened', 'quantity', 'realized_pnl', 'reason', 'sell', 'side', 'size_usd', 'status', 'target_convergence', 'yes']

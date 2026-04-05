@@ -1,0 +1,4 @@
+# file: /Users/lokkitbabu/Trading/prediction_arb/bot/backtest.py
+# hypothesis_version: 6.141.1
+
+[0.0, 1.0, 252, '  BACKTEST SUMMARY', '--from', '--to', '=', 'Config', 'StateStore', 'backtest_complete', 'backtest_starting', 'buy_yes', 'closed', 'from_date', 'gross_pnl', 'hold_to_resolution', 'max_drawdown', 'net_pnl', 'no', 'sharpe_ratio', 'to_date', 'total_opportunities', 'trades_simulated', 'win_rate', 'yes']

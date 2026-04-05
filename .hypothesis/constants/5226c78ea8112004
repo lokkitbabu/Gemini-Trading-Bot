@@ -1,0 +1,4 @@
+# file: /Users/lokkitbabu/Trading/prediction_arb/bot/api/server.py
+# hypothesis_version: 6.141.1
+
+[401, 405, '/api/{path:path}', '/docs', '/healthz', '/metrics', '1.0.0', 'ArbitrageEngine', 'Authorization', 'Bearer', 'Bearer ', 'Config', 'DELETE', 'GET', 'OPTIONS', 'OrderbookCache', 'PATCH', 'POST', 'PUT', 'RiskManager', 'SSEBroadcaster', 'StateStore', 'Unauthorized', 'WWW-Authenticate', 'api_server_created', 'application/json', 'health', 'observability', 'token']

@@ -1,0 +1,4 @@
+# file: /Users/lokkitbabu/Trading/prediction_arb/bot/alerts.py
+# hypothesis_version: 6.141.1
+
+[0.2, 10.0, 300, 587, 'From', 'Subject', 'To', 'alert_deduplicated', 'alert_delivery_error', 'alert_delivery_retry', 'alert_type', 'critical', 'drawdown_suspension', 'email', 'error', 'generic', 'high_spread', 'info', 'level', 'message', 'none', 'order_failure', 'slack', 'text', 'warning', 'webhook']

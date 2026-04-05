@@ -1,0 +1,4 @@
+# file: /Users/lokkitbabu/Trading/prediction_arb/bot/metrics.py
+# hypothesis_version: 6.141.1
+
+['arb_open_positions', 'arb_realized_pnl_usd', 'backend', 'endpoint', 'outcome', 'platform', 'platform_pair', 'side']

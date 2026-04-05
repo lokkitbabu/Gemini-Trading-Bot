@@ -1,0 +1,459 @@
+{
+  "series": [
+    {
+      "additional_prohibitions": [
+        "Persons who are employed by any of the Source Agencies are not permitted to trade on the Contract.",
+        "Persons who hold any material, non-public information on the Underlying are not permitted to trade on the Contract."
+      ],
+      "category": "Entertainment",
+      "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/ARTISTCOLLAB.pdf",
+      "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/ARTISTCOLLAB.pdf",
+      "fee_multiplier": 1,
+      "fee_type": "quadratic",
+      "frequency": "one_off",
+      "last_updated_ts": "2026-02-26T08:50:31.901806Z",
+      "settlement_sources": [
+        {
+          "name": "Amazon Music",
+          "url": "https://music.amazon.com"
+        },
+        {
+          "name": "Apple Music",
+          "url": "https://music.apple.com"
+        },
+        {
+          "name": "artist 1",
+          "url": "https://kalshi.com/"
+        },
+        {
+          "name": "artist 2",
+          "url": "https://kalshi.com/"
+        },
+        {
+          "name": "Bandcamp",
+          "url": "https://bandcamp.com"
+        },
+        {
+          "name": "Billboard",
+          "url": "https://www.billboard.com"
+        },
+        {
+          "name": "Complex",
+          "url": "https://kalshi.com/"
+        },
+        {
+          "name": "Pitchfork",
+          "url": "https://pitchfork.com"
+        },
+        {
+          "name": "Rolling Stone",
+          "url": "https://www.rollingstone.com"
+        },
+        {
+          "name": "SoundCloud",
+          "url": "https://www.soundcloud.com"
+        },
+        {
+          "name": "Spotify",
+          "url": "https://www.spotify.com"
+        },
+        {
+          "name": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com"
+        },
+        {
+          "name": "Tidal",
+          "url": "https://tidal.com"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com"
+        },
+        {
+          "name": "XXL Magazine",
+          "url": "https://www.xxlmag.com"
+        },
+        {
+          "name": "YouTube Music",
+          "url": "https://music.youtube.com"
+        }
+      ],
+      "tags": [
+        "Music"
+      ],
+      "ticker": "KXARTISTCOLLABTHUGANDGUNNA",
+      "title": "Will gunna and young thug make a song together by date"
+    },
+    {
+      "additional_prohibitions": [
+        "Persons who are employed by any of the Source Agencies are not permitted to trade on the Contract.",
+        "Persons who hold any material, non-public information on the Underlying are not permitted to trade on the Contract."
+      ],
+      "category": "Entertainment",
+      "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/ARTISTCOLLAB.pdf",
+      "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/ARTISTCOLLAB.pdf",
+      "fee_multiplier": 1,
+      "fee_type": "quadratic",
+      "frequency": "one_off",
+      "last_updated_ts": "2026-02-26T08:50:31.901806Z",
+      "settlement_sources": [
+        {
+          "name": "Amazon Music",
+          "url": "https://music.amazon.com"
+        },
+        {
+          "name": "Apple Music",
+          "url": "https://music.apple.com"
+        },
+        {
+          "name": "artist 1",
+          "url": "https://kalshi.com/"
+        },
+        {
+          "name": "artist 2",
+          "url": "https://kalshi.com/"
+        },
+        {
+          "name": "Bandcamp",
+          "url": "https://bandcamp.com"
+        },
+        {
+          "name": "Billboard",
+          "url": "https://www.billboard.com"
+        },
+        {
+          "name": "Complex",
+          "url": "https://kalshi.com/"
+        },
+        {
+          "name": "Pitchfork",
+          "url": "https://pitchfork.com"
+        },
+        {
+          "name": "Rolling Stone",
+          "url": "https://www.rollingstone.com"
+        },
+        {
+          "name": "SoundCloud",
+          "url": "https://www.soundcloud.com"
+        },
+        {
+          "name": "Spotify",
+          "url": "https://www.spotify.com"
+        },
+        {
+          "name": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com"
+        },
+        {
+          "name": "Tidal",
+          "url": "https://tidal.com"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com"
+        },
+        {
+          "name": "XXL Magazine",
+          "url": "https://www.xxlmag.com"
+        },
+        {
+          "name": "YouTube Music",
+          "url": "https://music.youtube.com"
+        }
+      ],
+      "tags": [
+        "Music"
+      ],
+      "ticker": "KXARTISTCOLLABDRAKEKENDRICK",
+      "title": "Will drake and kendrick lamar make a song together"
+    },
+    {
+      "additional_prohibitions": [
+        "Persons who are employed by any of the Source Agencies are not permitted to trade on the Contract.",
+        "Persons who hold any material, non-public information on the Underlying are not permitted to trade on the Contract."
+      ],
+      "category": "Crypto",
+      "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/BTCETHATH.pdf",
+      "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/BTCETHATH.pdf",
+      "fee_multiplier": 1,
+      "fee_type": "quadratic",
+      "frequency": "custom",
+      "last_updated_ts": "2026-02-26T08:50:31.901806Z",
+      "settlement_sources": [
+        {
+          "name": "CF Benchmarks",
+          "url": "https://www.cfbenchmarks.com/data/indices/BRTI?ref=blog.cfbenchmarks.com"
+        },
+        {
+          "name": "CF Benchmarks",
+          "url": "https://www.cfbenchmarks.com/data/indices/ETHUSD_RTI"
+        }
+      ],
+      "tags": [
+        "BTC",
+        "ETH"
+      ],
+      "ticker": "KXBTCETHATH",
+      "title": "BTC vs. ETH ATH"
+    },
+    {
+      "additional_prohibitions": [
+        "Persons who are employed by any of the Source Agencies are not permitted to trade on the Contract.",
+        "Persons who hold any material, non-public information on the Underlying are not permitted to trade on the Contract."
+      ],
+      "category": "Science and Technology",
+      "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/STARSHIPDOCK.pdf",
+      "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/STARSHIPDOCK.pdf",
+      "fee_multiplier": 1,
+      "fee_type": "quadratic",
+      "frequency": "custom",
+      "last_updated_ts": "2026-02-26T08:50:31.901806Z",
+      "settlement_sources": [
+        {
+          "name": "ABC",
+          "url": "https://www.abc.net.au/"
+        },
+        {
+          "name": "Axios",
+          "url": "https://www.axios.com/"
+        },
+        {
+          "name": "CBS",
+          "url": "https://www.cbsnews.com/"
+        },
+        {
+          "name": "CNN",
+          "url": "https://www.cnn.com/"
+        },
+        {
+          "name": "Fox News",
+          "url": "https://www.foxnews.com/"
+        },
+        {
+          "name": "MSNBC",
+          "url": "https://www.msnbc.com/"
+        },
+        {
+          "name": "Politico",
+          "url": "https://www.politico.com/"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/"
+        },
+        {
+          "name": "Semafor",
+          "url": "https://www.semafor.com/"
+        },
+        {
+          "name": "the Associated Press",
+          "url": "https://apnews.com/"
+        },
+        {
+          "name": "The Information",
+          "url": "https://www.theinformation.com/"
+        },
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/"
+        },
+        {
+          "name": "The Wall Street Journal",
+          "url": "https://www.wsj.com/"
+        },
+        {
+          "name": "The Washington Post",
+          "url": "https://www.washingtonpost.com/"
+        }
+      ],
+      "tags": null,
+      "ticker": "KXSTARSHIPDOCK",
+      "title": "Starships dock"
+    }
+  ],
+  "events": [
+    {
+      "available_on_brokers": false,
+      "category": "Entertainment",
+      "collateral_return_type": "",
+      "event_ticker": "KXARTISTCOLLABTHUGANDGUNNA-30",
+      "last_updated_ts": "2026-02-26T08:50:31.901806Z",
+      "mutually_exclusive": false,
+      "series_ticker": "KXARTISTCOLLABTHUGANDGUNNA",
+      "strike_period": "",
+      "sub_title": "Before 2030",
+      "title": "When will Young Thug and Gunna make a song together?"
+    },
+    {
+      "available_on_brokers": true,
+      "category": "Entertainment",
+      "collateral_return_type": "",
+      "event_ticker": "KXARTISTCOLLABDRAKEKENDRICK-30",
+      "last_updated_ts": "2026-02-26T08:50:31.901806Z",
+      "mutually_exclusive": false,
+      "series_ticker": "KXARTISTCOLLABDRAKEKENDRICK",
+      "strike_period": "",
+      "sub_title": "Before 2030",
+      "title": "Will Drake and Kendrick Lamar make a song together before 2030?"
+    },
+    {
+      "available_on_brokers": false,
+      "category": "Crypto",
+      "collateral_return_type": "",
+      "event_ticker": "BTCETHATH-29DEC31",
+      "last_updated_ts": "2026-02-26T08:50:31.901806Z",
+      "mutually_exclusive": false,
+      "series_ticker": "KXBTCETHATH",
+      "strike_period": "",
+      "sub_title": "Before 2030",
+      "title": "Ethereum hits new all-time high before Bitcoin?"
+    },
+    {
+      "available_on_brokers": true,
+      "category": "Science and Technology",
+      "collateral_return_type": "",
+      "event_ticker": "KXSTARSHIPDOCK-28",
+      "last_updated_ts": "2026-02-26T08:50:31.901806Z",
+      "mutually_exclusive": false,
+      "series_ticker": "KXSTARSHIPDOCK",
+      "strike_period": "",
+      "sub_title": "Before 2028",
+      "title": "Will two SpaceX Starships dock together before 2028?"
+    }
+  ],
+  "markets": [
+    {
+      "can_close_early": true,
+      "close_time": "2030-01-01T15:00:00Z",
+      "created_time": "2025-07-16T19:55:28.377366Z",
+      "early_close_condition": "This market will close and expire early if the event occurs.",
+      "event_ticker": "KXARTISTCOLLABDRAKEKENDRICK-30",
+      "expected_expiration_time": "2030-01-01T15:00:00Z",
+      "expiration_time": "2030-01-01T15:00:00Z",
+      "expiration_value": "",
+      "fractional_trading_enabled": false,
+      "last_price": 24,
+      "last_price_dollars": "0.2400",
+      "latest_expiration_time": "2030-01-01T15:00:00Z",
+      "liquidity": 0,
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask": 80,
+      "no_ask_dollars": "0.8000",
+      "no_bid": 76,
+      "no_bid_dollars": "0.7600",
+      "no_sub_title": "Before 2030",
+      "notional_value": 100,
+      "notional_value_dollars": "1.0000",
+      "open_interest": 427,
+      "open_interest_fp": "427.00",
+      "open_time": "2025-07-17T14:00:00Z",
+      "previous_price": 24,
+      "previous_price_dollars": "0.2400",
+      "previous_yes_ask": 24,
+      "previous_yes_ask_dollars": "0.2400",
+      "previous_yes_bid": 20,
+      "previous_yes_bid_dollars": "0.2000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "response_price_units": "usd_cent",
+      "result": "",
+      "rules_primary": "If Drake and Kendrick Lamar make a song together before Jan 1, 2030, then the market resolves to Yes.",
+      "rules_secondary": "",
+      "settlement_timer_seconds": 1800,
+      "status": "active",
+      "subtitle": "",
+      "tick_size": 1,
+      "ticker": "KXARTISTCOLLABDRAKEKENDRICK-30",
+      "title": "Will Drake and Kendrick Lamar make a son together?",
+      "updated_time": "2026-02-19T08:48:16.628714Z",
+      "volume": 560,
+      "volume_24h": 0,
+      "volume_24h_fp": "0.00",
+      "volume_fp": "560.00",
+      "yes_ask": 24,
+      "yes_ask_dollars": "0.2400",
+      "yes_ask_size_fp": "42.00",
+      "yes_bid": 20,
+      "yes_bid_dollars": "0.2000",
+      "yes_bid_size_fp": "1.00",
+      "yes_sub_title": "Before 2030",
+      "yes_price": 0.22,
+      "yes_bid_norm": 0.2,
+      "yes_ask_norm": 0.24
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2028-01-01T15:00:00Z",
+      "created_time": "2025-03-19T01:57:16.191605Z",
+      "early_close_condition": "This market will close and expire early if the event occurs.",
+      "event_ticker": "KXSTARSHIPDOCK-28",
+      "expected_expiration_time": "2028-01-01T15:00:00Z",
+      "expiration_time": "2028-01-01T15:00:00Z",
+      "expiration_value": "",
+      "fractional_trading_enabled": false,
+      "last_price": 69,
+      "last_price_dollars": "0.6900",
+      "latest_expiration_time": "2028-01-01T15:00:00Z",
+      "liquidity": 0,
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask": 35,
+      "no_ask_dollars": "0.3500",
+      "no_bid": 32,
+      "no_bid_dollars": "0.3200",
+      "no_sub_title": "Before 2028",
+      "notional_value": 100,
+      "notional_value_dollars": "1.0000",
+      "open_interest": 19949,
+      "open_interest_fp": "19949.00",
+      "open_time": "2025-03-19T14:00:00Z",
+      "previous_price": 69,
+      "previous_price_dollars": "0.6900",
+      "previous_yes_ask": 69,
+      "previous_yes_ask_dollars": "0.6900",
+      "previous_yes_bid": 65,
+      "previous_yes_bid_dollars": "0.6500",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "response_price_units": "usd_cent",
+      "result": "",
+      "rules_primary": "If two SpaceX Starships (any kind of Starship \u2013 e.g. tankers, depots, testing vehicles) successfully execute a docking maneuver in a stable Earth orbit before Jan 1, 2028, then the market resolves to Yes.",
+      "rules_secondary": "",
+      "settlement_timer_seconds": 1800,
+      "status": "active",
+      "subtitle": "",
+      "tick_size": 1,
+      "ticker": "KXSTARSHIPDOCK-28",
+      "title": "Will two SpaceX Starships dock together before 2028?",
+      "updated_time": "2026-02-19T08:48:16.628714Z",
+      "volume": 29268,
+      "volume_24h": 0,
+      "volume_24h_fp": "0.00",
+      "volume_fp": "29268.00",
+      "yes_ask": 68,
+      "yes_ask_dollars": "0.6800",
+      "yes_ask_size_fp": "31.00",
+      "yes_bid": 65,
+      "yes_bid_dollars": "0.6500",
+      "yes_bid_size_fp": "1.00",
+      "yes_sub_title": "Before 2028",
+      "yes_price": 0.665,
+      "yes_bid_norm": 0.65,
+      "yes_ask_norm": 0.68
+    }
+  ]
+}

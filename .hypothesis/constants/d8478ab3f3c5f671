@@ -1,0 +1,4 @@
+# file: /Users/lokkitbabu/Trading/prediction_arb/bot/clients/gemini.py
+# hypothesis_version: 6.141.1
+
+[0.0, 0.03, 1.0, 10.0, 30.0, 60.0, 1000, '/', '/v1/order/cancel', '/v1/order/new', '/v1/order/status', '/v1/orders', 'Content-Type', 'GET', 'POST', 'X-GEMINI-APIKEY', 'X-GEMINI-PAYLOAD', 'X-GEMINI-SIGNATURE', 'a', 'active', 'amount', 'asks', 'b', 'best_ask', 'best_bid', 'bids', 'bookTicker', 'cancel_order', 'cancelled', 'e', 'event_id', 'events', 'exchange limit', 'executionReport', 'fill', 'fill_callback_error', 'filled', 'gemini', 'gemini_ws_connected', 'get_event', 'get_events', 'get_open_orders', 'get_order_status', 'get_orderbook', 'is_cancelled', 'is_live', 'live', 'nonce', 'order', 'order_id', 'orders', 'orders@account', 'place_order', 'price', 'request', 's', 'side', 'status', 'text/plain', 'type', 'wss://ws.gemini.com']

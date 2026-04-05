@@ -1,0 +1,4 @@
+# file: /Users/lokkitbabu/Trading/prediction_arb/bot/clients/base.py
+# hypothesis_version: 6.141.1
+
+[1.0, 2.0, 4.0, 10.0, 60.0, 401, 429, 500, '/', 'BaseClient', 'Retry-After', 'auth_expired', 'rate_limited', 'request_timeout', 'server_error', 'unknown']

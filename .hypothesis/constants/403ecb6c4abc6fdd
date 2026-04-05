@@ -1,0 +1,4 @@
+# file: /Users/lokkitbabu/Trading/prediction_arb/bot/state.py
+# hypothesis_version: 6.141.1
+
+[0.0, 0.5, 1.0, 2.0, '@', 'GeminiPosition', 'Opportunity', 'OrderbookSnapshot', 'asset', 'available_capital', 'backend', 'closed', 'confidence', 'direction', 'drawdown_pct', 'equivalent', 'expires_at', 'filled', 'id', 'inverted', 'key', 'match_cache_pruned', 'open', 'open_positions', 'peak_capital', 'price_level', 'realized_pnl', 'reasoning', 'resolution_date', 'snapshot_at', 'state_store_closed', 'state_write_failed', 'state_write_retry']
